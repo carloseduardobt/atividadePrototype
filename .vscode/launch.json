@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Executar Prototype (Main)",
+            "request": "launch",
+            "mainClass": "prototype.Main"
+        },
+        {
+            "type": "java",
+            "name": "Benchmark Prototype",
+            "request": "launch",
+            "mainClass": "prototype.BenchmarkPrototype"
+        }
+    ]
+}
